@@ -1,0 +1,36 @@
+body{
+background-image: url("img/pink.jpg");
+background-size: cover;
+}
+
+p {
+font-size: 20pt;
+font-family: Century Gothic;
+text-align: center;
+}
+
+.qq {
+font-size: 30pt;
+font-family: Century Gothic;
+text-align: center;
+color: 	palevioletred;
+}
+
+li {
+font-size: 20pt;
+text-align: left;
+font-family: Century Gothic;
+}
+
+b {
+color: olivedrab;
+}
+
+a:hover {
+color:limegreen;}
+
+.vg {
+font-size: 25pt;
+font-weight:bold;
+color: 	palevioletred;
+}
